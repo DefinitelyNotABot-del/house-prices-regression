@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Model artifacts
+saved_models/
+*.joblib
+*.pkl
+
+# Data files (optional - uncomment if you don't want to commit large CSVs)
+# *.csv
+
+# Temporary files
+*.log
+*.tmp
